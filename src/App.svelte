@@ -112,7 +112,7 @@
 </style>
 
 <div class="container">
-  <img id="homeImage" alt="A headshot of a girl in a green shirt in front of a blue wall." src="/src/assets/abby.jpeg" draggable="false">
+  <img id="homeImage" alt="A headshot of a girl in a green shirt in front of a blue wall." src="abby.jpeg" draggable="false">
   <h1>Hi, I'm {name}! 👋</h1>
   <!--<p>My favorite number is <strong>{favoriteNumber}</strong>.</p>-->
   <p>{bio}</p>
