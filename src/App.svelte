@@ -4,37 +4,37 @@
     let cardData = [
       {
         image:
-          "/src/assets/rainbow.png",
+          "../../src/assets/rainbow.png",
         title: "Color Fanatic 🌈",
         description:
           "I am obsessed with all things colorful! I’m a firm believer that the world needs more color and love to surround myself with happy hues.",
       },
       {
-        image: "/src/assets/rover.png",
+        image: "../../src/assets/rover.png",
         title: "TrickFire Robotics 🤖",
         description: 
           "I am a software and marketing member for TrickFire Robotics, the University of Washington Bothell’s University Rover Challenge team!",
       },
       {
-        image: "/src/assets/robot.png",
+        image: "../../src/assets/robot.png",
         title: "VEX Robotics 🍋",
         description: 
           "In high school I competed on VRC team 99621A Lemon Pi! My roles on the team consisted of designing, building, programming, and keeping an award-winning 2,200+ page engineering notebook."
       },
       {
-        image: "/src/assets/hackathon.png",
+        image: "../../src/assets/hackathon.png",
         title: "Coding 👩‍💻",
         description: 
           "I love to code! I’ve completed many summer programs and taken CS classes in high school and college. I’m always up to try something new!"
       },
       {
-        image: "/src/assets/confetti.png",
+        image: "../../src/assets/confetti.png",
         title: "Twin 💕",
         description: 
           "On my dad’s side of the family alone there are three sets of identical twin girls! My twin sister is by far my best friend and partner in crime."
         },
       {
-        image: "/src/assets/northernLights.png",
+        image: "../../src/assets/northernLights.png",
         title: "Washington 🌲",
         description:
           "Although I’ve lived in Washington state my entire life I love exploring new places with my friends. (Yes, it rains a lot here!)"
@@ -112,7 +112,7 @@
 </style>
 
 <div class="container">
-  <img id="homeImage" alt="A headshot of a girl in a green shirt in front of a blue wall." src="/src/assets/abby.jpeg" draggable="false">
+  <img id="homeImage" alt="A headshot of a girl in a green shirt in front of a blue wall." src="../../src/assets/abby.jpeg" draggable="false">
   <h1>Hi, I'm {name}! 👋</h1>
   <!--<p>My favorite number is <strong>{favoriteNumber}</strong>.</p>-->
   <p>{bio}</p>
